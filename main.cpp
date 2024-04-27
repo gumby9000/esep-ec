@@ -1,3 +1,6 @@
+//Code by Seth Kennedy
+//Citation: OpenAI Chat gpt helped me come up with a solution to be able to
+//return an int or null from the same function
 #include <iostream>
 #include <string>
 #include <map>
